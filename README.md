@@ -1,9 +1,14 @@
 # 1KLICK2 DIGIWORLD
 
-- Rebranding ID: 681617b2b61e49fca4745eda
-- User ID: 675a7f213fc02e1f5ac372e0
-- App name: 1KLICK2 DIGIWORLD
-- Product name: Button Sender
+1KLICK2 DIGIWORLD by 1KLICK2 DIGIWORLD.
 
-App logo: https://api.digibulkmarketing.com/media/rebranding/1klick2-digiworld/logo.png
-![App Logo](https://api.digibulkmarketing.com/media/rebranding/1klick2-digiworld/logo.png)
+## Installation
+
+### Windows
+1. Download the latest **`.exe`** installer from the [Releases page](https://github.com/digi-bulk-marketing/1klick2-digiworld/releases/latest).
+2. Run the installer and follow the prompts.
+3. Launch **1KLICK2 DIGIWORLD** from the Start menu.
+
+## Updates
+
+Download the newest installer from the [Releases page](https://github.com/digi-bulk-marketing/1klick2-digiworld/releases/latest) and reinstall.
